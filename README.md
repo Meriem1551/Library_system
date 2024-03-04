@@ -19,7 +19,7 @@ This how should the output looks like
 
 <img src="https://imgur.com/hwZn4rX.png">
 
-<h3>Tools and languages:</h3>
+<h3>Tools_and_languages:</h3>
 
 - java
 - IntelliJ
