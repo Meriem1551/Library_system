@@ -10,7 +10,7 @@ public class Main {
 
         bib.ajouter(l1);
         bib.ajouter(l2);
-
+        bib.ajouter(i);
         bib.listening();
     }
 }

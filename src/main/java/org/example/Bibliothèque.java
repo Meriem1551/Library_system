@@ -18,11 +18,16 @@ public class Bibliothèque {
             index++;
         }
     }
+
+    void afficher(Document d){
+        d.affiche();
+        System.out.println("==========");
+    }
     public void listening()
     {
         for (Document d: documents) {
             if(d != null) {
-                d.affiche();
+                afficher(d);
             }
         }
     }

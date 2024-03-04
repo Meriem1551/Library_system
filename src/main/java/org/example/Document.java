@@ -15,7 +15,7 @@ public class Document {
     }
     public void affiche()
     {
-        System.out.println(this.titre);
+        System.out.println("Titre est " + this.titre);
     }
 
 }

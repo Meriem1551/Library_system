@@ -13,7 +13,7 @@ public class Livre extends Document{
     public void affiche()
     {
         super.affiche();
-        System.out.println(this.auteur);
-        System.out.println(this.éditeur);
+        System.out.println("Auteur est " + this.auteur);
+        System.out.println("Editeur est " + this.éditeur);
     }
 }

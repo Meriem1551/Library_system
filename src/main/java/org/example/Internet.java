@@ -11,6 +11,6 @@ public class Internet extends Document{
     public void affiche()
     {
         super.affiche();
-        System.out.println(this.URL);
+        System.out.println("URL est "+ this.URL);
     }
 }
